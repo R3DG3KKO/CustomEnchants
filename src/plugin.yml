@@ -1,0 +1,8 @@
+main: com.r3dg3kko.customenchants.Main
+name: CustomEnchants
+author: R3DG3KKO
+version: 1.0
+api-version: 1.16
+
+commands:
+  ce:
